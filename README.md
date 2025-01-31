@@ -10,3 +10,5 @@ Summarized Excel Sheet:
 -Displays avg value of CO2 emissions from each category in table and pie chart form, and is appropriately labeled
 
 numpy, panda, openpxyl, and mathplotlib were utilized for this project
+
+Example pie chart png, histogram png, and excel sheet are given, but users can download the program and input their own values
